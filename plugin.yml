@@ -1,0 +1,10 @@
+name: VoteLien
+author: LucasPhP
+version: 1.0.0
+api: 3.0.0
+main: LucasPhP\VoteLien\main
+
+commands:
+  votelien:
+    description: "Voir le lien de vote "
+    usage: /votelien
